@@ -9,7 +9,7 @@ public class Main {
         if (age < 18) {
             System.out.println("Вам нужно подождать до 18-ти лет");
         }
-            // Задание 2
+              // Задание 2
             System.out.println("// Задание 2");
             int age1 = 30;
             if (age1 >= 7) {
